@@ -1,5 +1,6 @@
 # JOBS IN GAMES
 Global game development workforce platform.
+
 Testing region: Poland.
 
 ## Social Media
