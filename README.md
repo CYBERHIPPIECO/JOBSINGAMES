@@ -1,5 +1,5 @@
-# JOBSINGAMES
-Global game development workforce platform
+# JOBS IN GAMES
+Global game development workforce platform.
 
 ## Social Media
 
