@@ -1,11 +1,12 @@
 # JOBS IN GAMES
 Global game development workforce platform.
+Testing region: Poland.
 
 ## Social Media
 
 Platform https://www.jobsingames.com (?)
 
-Fanpage (2357) https://www.facebook.com/jobsingamespl
+Fanpage (2357->2426) https://www.facebook.com/jobsingamespl
 
 FB Group (5792) https://www.facebook.com/groups/jobsingames/
 
