@@ -1,6 +1,10 @@
 # JOBSINGAMES
 Global game development workforce platform
 
+## Social Media
+
+Platform https://www.jobsingames.com (?)
+
 Fanpage (2357) https://www.facebook.com/jobsingamespl
 
 FB Group (5792) https://www.facebook.com/groups/jobsingames/
@@ -11,6 +15,9 @@ Instagram (x)
 
 YouTube (x)
 
-Jobs in Games oraz grupa Poszukiwany/Poszukiwana w Projektowaniu Gier jest darmową usługą oferowaną przez Cyberhippie Collective.
+Global game development workforce platform. 
+Looking for work, collaboration or a team in game development industry? Join our community!
 
-www.cyberhippie.co
+## Notes
+
+Older description: Jobs in Games oraz grupa Poszukiwany/Poszukiwana w Projektowaniu Gier jest darmową usługą oferowaną przez Cyberhippie Collective. www.cyberhippie.co
