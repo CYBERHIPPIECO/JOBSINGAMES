@@ -1,5 +1,9 @@
 # JOBS IN GAMES
 Global game development workforce platform.
+Trust Badges to register. Game job platform with trusted professionals.
+Jobs in Games jako platforma ma trust badge gating system, ktore trzeba otrzymac by sie pojawic na platformie.
+
+high quality work
 
 Testing region: Poland.
 
@@ -7,9 +11,9 @@ Testing region: Poland.
 
 Platform https://www.jobsingames.com (?)
 
-Fanpage (2357->2426) https://www.facebook.com/jobsingamespl
+Fanpage (2500+) https://www.facebook.com/jobsingamespl
 
-FB Group (5792) https://www.facebook.com/groups/jobsingames/
+FB Group (6000+) https://www.facebook.com/groups/jobsingames/
 
 Twitter (x) 
 
